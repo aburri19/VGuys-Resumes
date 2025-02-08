@@ -1,0 +1,91 @@
+/* General Styles */
+body {
+    font-family: Times New Roman
+    line-height: 1.7;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: Black;
+}
+
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* Header Styles */
+header h1 {
+    color: Black;
+    text-align: center;
+    font-size: 36px;
+}
+
+header .contact-info {
+    text-align: center;
+    color: Black;
+}
+
+header a {
+    color: Black;
+    text-decoration: none;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+/* Section Styles */
+section {
+    margin-bottom: 30px;
+}
+
+section h2 {
+    color: Black;
+    border-bottom: 2px solid Black;
+}
+
+section ul {
+    list-style: square;
+    padding-left: 20px;
+}
+
+section ul li {
+    margin-bottom: 10px;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer a {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Print Styles */
+@media print {
+    body {
+        background-color: white;
+        color: black;
+    }
+
+    .container {
+        box-shadow: none;
+        border: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    footer {
+        display: none;
+    }
+}

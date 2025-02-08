@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume_IbrahimBaig</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header>
+        <div class="profile-header">
+            <img src="Ibrahim.jpg" alt="Your Photo" class="profile-image">
+            <div class="profile-info">
+                <h1>IBRAHIM ARSALAN BAIG</h1>
+                <p>
+                    <a href="https://www.linkedin.com/in/ibrahim-arsalan-baig-752101209/" target="_blank">www.linkedin.com/in/Ibrahim</a> |
+                +971 545 242 070 | ibaig9221@gmail.com | Sharjah, UAE
+                </p>
+            </div>
+        </div>
+    </header>
+    <hr>
+    <section>
+        <h2>HIGHLIGHTS OF QUALIFICATIONS</h2>
+        <ul>
+            <li>Solid foundation in hardware and software integration, including microcontrollers and embedded systems.</li>
+            <li>Proficient in programming languages such as C, C++, Python, and Java.</li>
+            <li>Experience in circuit design, simulation, and system-level design using tools like MATLAB and Verilog.</li>
+            <li>Knowledge of computer architecture, networking, and IoT applications.</li>
+            <li>Strong analytical and problem-solving skills applied to real-world engineering challenges.</li>
+        </ul>
+    </section>
+   
+    <section>
+        
+        <h2><hr>EDUCATION</h2>
+        <p><b><i>Bachelor of Science in Computer Engineering</b></i><br> <i>American University of Sharjah, UAE </i><br> Expected Graduation: June 2025</p>
+    </section>
+    
+    <section>
+        <hr>
+        <h2>PROJECTS</h2>
+    <h3>Capstone Group Project - Maritime Vessel Detection Using a Network of Marine Radars via a Simulation in Unity</h3>
+        <p> We developed a maritime vessel detection system using a network of marine radars simulated in Unity to enhance maritime surveillance in the UAE. The project addressed traditional radar limitations by integrating deep learning with buoy-mounted radars, enabling unmanned, real-time maritime situational awareness. A scalable and cost-effective solution was designed to train and test vessel detection capabilities in a simulated environment. The system demonstrated high detection accuracy, achieving an F1-score of 0.938 using the CenterNet deep learning model.</p>
+        <h3>IoT Home Automation System</h3>
+        <p> Designed and implemented a smart home security system integrating IoT, RFID authentication, and sensor-based automation for enhanced safety. Features included secure access control, real-time surveillance, environmental monitoring, and automated lighting. The system provided remote monitoring via the ThingSpeak IoT platform and a buzzer alarm for intrusion detection, ensuring a multi-layered security approach.</p>
+        <h3>LC3 Machine Code Decoder</h3>
+        <p> Developed a C++ program to translate hexadecimal LC-3 machine code into human-readable instructions. The program decodes each instruction step-by-step, extracting opcodes and operands, then converting them into corresponding LC-3 assembly language. This implementation provides a straightforward method to interpret LC-3 assembly instructions from their hexadecimal representation, aiding in program analysis and debugging.</p>
+    </section>
+   
+    <section>
+        <h2><hr>TECHNICAL SKILLS</h2>
+        <ul>
+            <li><b>Programming</b>: C, C++, Python, Java, Verilog, MATLAB</li>
+            <li><b>Tools</b>: Unity, Git, MATLAB, SPICE, Wireshark</li>
+            <li><b>Networking</b>: LAN, WAN, IoT Protocols</li>
+            <li><b>Operating Systems</b>: Windows, Linux, Unix</li>
+        </ul>
+    </section>
+    <section>
+        <hr>
+        <h2>INTERNSHIP</h2>
+        <p><b>Computer Engineer Intern </b><br><i> Procom Technologies, Riyadh, KSA [December 2022 - January 2023] </i><br>
+        <ul>
+        <li>Completed in-person training focused on <b>HCIP Datacom Core Technology</b>, including Advanced Routing and Switching concepts.  
+        <li>Gained hands-on experience with <b>Huawei eNSP software</b> for data communication and networking simulations.  
+        <li>Conducted site visits to <b>Ramla Fairmont Serviced Residence Hotel</b> and <b>Hitachi/ABB factory</b>, observing real-world implementation of data networking and security devices.  
+        <li>Supervised technicians during the installation and maintenance of <b> routers, switches, and terminal blocks</b> in networking cabinets.  
+        <li>Configured and tested the <b>Huawei NE8000 M6 Router</b>, comparing functionality against the <b>Huawei CE Router Acceptance Test</b> Guide.</p>
+        </ul>
+    </section>
+   
+    <section>
+        <hr>
+        <h2>EXTRACURRICULAR ACTIVITIES</h2>
+        <ul>
+            <p><li>Member of the official <b>AUS Cricket team</b> [Spring 2022 - Fall 2022]</li></p>
+            <p><li>Member of the winning <b>Indian Club Cricket team</b> in the AUS Olympics Tournament [Fall 2022]</li></p>
+        </ul>
+    </section>
+
+    <section>
+        <hr>
+        <h2>LANGUAGE SKILLS</h2>
+        <ul>
+            <li>Fleunt in English, Urdu and Hindi.</li>
+            <li>Basic understanding of Arabic, able to comprehend simple sentences.</li>
+        </ul>
+    </section>
+    <div class="download-section">
+        <a href="Resume_IbrahimBaig.pdf" download class="download-btn">Download PDF Version</a>
+    </div>
+    
+</body>
+</html>
